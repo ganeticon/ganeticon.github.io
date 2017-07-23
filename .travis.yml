@@ -19,5 +19,6 @@ script:
 - git remote add gh-token "${GH_REF}";
 - git fetch gh-token && git fetch gh-token master:master;
 - if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then echo "Pushing to github"; PYTHONPATH=src/
-  mkdocs gh-deploy -v --clean --remote-name gh-token; git push gh-token master;
+  mkdocs gh-deploy -v --clean --remote-branch master --remote-name gh-token; 
+  git push gh-token master;
   fi;
