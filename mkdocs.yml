@@ -1,0 +1,22 @@
+site_name: GanetiCon
+site_description: 'GanetiCon 2017 - Berlin'
+copyright: 'ganeticon.org 2017'
+
+extra:
+  logo: './assets/images/logo.png'
+  social:
+    - type: 'home'
+      link: 'http://ganeti.org'
+    - type: 'group'
+      link: 'https://groups.google.com/forum/#!forum/ganeti'
+    - type: 'github'
+      link: 'https://github.com/ganeti'
+    - type: 'google-plus'
+      link: 'https://plus.google.com/113015122293573254673'
+
+pages:
+    - 'The Ganeti Conference': 'index.md'
+    
+markdown_extensions:
+  - admonition
+theme_dir: 'theme'
