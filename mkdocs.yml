@@ -1,6 +1,6 @@
 site_name: GanetiCon
-site_description: 'GanetiCon 2017 - Berlin'
-copyright: 'ganeticon.org 2017'
+site_description: 'GanetiCon 2018 - Düsseldorf'
+copyright: 'ganeticon.org 2018'
 
 extra:
   logo: './assets/images/logo.png'
@@ -16,7 +16,7 @@ extra:
 
 pages:
     - 'The Ganeti Conference': 'index.md'
-    
+
 markdown_extensions:
   - admonition
 theme_dir: 'theme'
