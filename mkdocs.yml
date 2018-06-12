@@ -1,4 +1,4 @@
-site_name: GanetiCon
+site_name: The Ganeti Conference
 site_description: 'GanetiCon 2018 - Düsseldorf'
 copyright: 'ganeticon.org 2018'
 
@@ -15,7 +15,8 @@ extra:
       link: 'https://plus.google.com/113015122293573254673'
 
 pages:
-    - 'The Ganeti Conference': 'index.md'
+    - 'GanetiCon 2018': 'index.md'
+    - 'Previos GanetiCons': 'previos_cons.md'
 
 markdown_extensions:
   - admonition
