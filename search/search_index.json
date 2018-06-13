@@ -2,33 +2,73 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome\n\n\nto the Ganeti users and developer summit\n\n\nCall for Participation\n\n\nPlease help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.\n\n\n\n\nyou like to make the GanetiCon happen then join the GanetiCon list \nganeticon@googlegroups.com\n\n\nsend us an abstract of your talk to \nganeticon@google.com\n\n\n\n\nLocation\n\n\n\n\nNote\n\n\nBerlin Germany\n\n\n\n\nSchedule\n\n\n\n\nNote\n\n\nnot yet defined\n\n\n\n\nSponsors\n\n\n\n\nNote\n\n\nif you like to support the ganeticon drop us a note at \nganeticon@google.com",
-            "title": "The Ganeti Conference"
+            "text": "GanetiCon 2018 - D\u00fcsseldorf\n\n\nThe Ganeti users and developer summit\n\n\nLocation\n\n\nD\u00fcsseldorf, Germany ... Adresse, Anfahrt\n\n\nSchedule\n\n\n\n\n\n\n\n\nTime\n\n\nDay 1\n\n\nDay 2\n\n\n\n\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\n\n\nCall for Participation / Registration\n\n\nPlease help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.\n\n\n\n\n\n\nIf you like to attend the GanetiCon 2018, please register on \nTBA\n. It will help us to better plan the event.\n\n\n\n\n\n\nIf you like to give a talk, please join and tell us at the \nGanetiCon list\n\n\n\n\n\n\nSponsors\n\n\nGanetiCon 2018 will be hosted by \nsipgate GmbH\n\n\n\n\nContact\n\n\n\n\nhomepage\n\n\ndocs\n\n\nwiki\n\n\ncode\n\n\nmail\n\n\ndev-mail\n\n\nIRC \n#ganeti\n on \nFreenode",
+            "title": "GanetiCon 2018"
         },
         {
-            "location": "/#welcome",
-            "text": "to the Ganeti users and developer summit",
-            "title": "Welcome"
-        },
-        {
-            "location": "/#call-for-participation",
-            "text": "Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.   you like to make the GanetiCon happen then join the GanetiCon list  ganeticon@googlegroups.com  send us an abstract of your talk to  ganeticon@google.com",
-            "title": "Call for Participation"
+            "location": "/#ganeticon-2018-dusseldorf",
+            "text": "The Ganeti users and developer summit",
+            "title": "GanetiCon 2018 - D\u00fcsseldorf"
         },
         {
             "location": "/#location",
-            "text": "Note  Berlin Germany",
+            "text": "D\u00fcsseldorf, Germany ... Adresse, Anfahrt",
             "title": "Location"
         },
         {
             "location": "/#schedule",
-            "text": "Note  not yet defined",
+            "text": "Time  Day 1  Day 2      Content Cell  Content Cell  Content Cell    Content Cell  Content Cell  Content Cell",
             "title": "Schedule"
         },
         {
+            "location": "/#call-for-participation-registration",
+            "text": "Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.    If you like to attend the GanetiCon 2018, please register on  TBA . It will help us to better plan the event.    If you like to give a talk, please join and tell us at the  GanetiCon list",
+            "title": "Call for Participation / Registration"
+        },
+        {
             "location": "/#sponsors",
-            "text": "Note  if you like to support the ganeticon drop us a note at  ganeticon@google.com",
+            "text": "GanetiCon 2018 will be hosted by  sipgate GmbH",
             "title": "Sponsors"
+        },
+        {
+            "location": "/#contact",
+            "text": "homepage  docs  wiki  code  mail  dev-mail  IRC  #ganeti  on  Freenode",
+            "title": "Contact"
+        },
+        {
+            "location": "/previos_cons/",
+            "text": "Previos Converences\n\n\n2017\n\n\nLeipzig - \nMiniGanetiCon 2017\n  \n\n\n2016\n\n\nDublin - \nGanetiCon 2016\n  \n\n\n2015\n\n\nPrague - \nGanetiCon 2015\n  \n\n\n2014\n\n\nPortland - \n#GanetiCon 2014\n  \n\n\n2013\n\n\nAthens - \nGanetiCon 2013",
+            "title": "Previos GanetiCons"
+        },
+        {
+            "location": "/previos_cons/#previos-converences",
+            "text": "",
+            "title": "Previos Converences"
+        },
+        {
+            "location": "/previos_cons/#2017",
+            "text": "Leipzig -  MiniGanetiCon 2017",
+            "title": "2017"
+        },
+        {
+            "location": "/previos_cons/#2016",
+            "text": "Dublin -  GanetiCon 2016",
+            "title": "2016"
+        },
+        {
+            "location": "/previos_cons/#2015",
+            "text": "Prague -  GanetiCon 2015",
+            "title": "2015"
+        },
+        {
+            "location": "/previos_cons/#2014",
+            "text": "Portland -  #GanetiCon 2014",
+            "title": "2014"
+        },
+        {
+            "location": "/previos_cons/#2013",
+            "text": "Athens -  GanetiCon 2013",
+            "title": "2013"
         }
     ]
 }
