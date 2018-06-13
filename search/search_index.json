@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "GanetiCon 2018 - D\u00fcsseldorf\n\n\nThe Ganeti users and developer summit\n\n\nLocation\n\n\nD\u00fcsseldorf, Germany ... Adresse, Anfahrt\n\n\nSchedule\n\n\n\n\n\n\n\n\nTime\n\n\nDay 1\n\n\nDay 2\n\n\n\n\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\n\n\nCall for Participation / Registration\n\n\nPlease help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.\n\n\n\n\n\n\nIf you like to attend the GanetiCon 2018, please register on \nTBA\n. It will help us to better plan the event.\n\n\n\n\n\n\nIf you like to give a talk, please join and tell us at the \nGanetiCon list\n\n\n\n\n\n\nSponsors\n\n\nGanetiCon 2018 will be hosted by \nsipgate GmbH\n\n\n\n\nContact\n\n\n\n\nhomepage\n\n\ndocs\n\n\nwiki\n\n\ncode\n\n\nmail\n\n\ndev-mail\n\n\nIRC \n#ganeti\n on \nFreenode",
+            "text": "GanetiCon 2018 - D\u00fcsseldorf\n\n\nThe Ganeti users and developer summit\n\n\nLocation\n\n\nD\u00fcsseldorf, Germany ... Adresse, Anfahrt\n\n\nSchedule\n\n\nGanetiCon 2018 is scheduled for the 25th \nand\n 26th of September.\n\n\n\n\n\n\n\n\nTime\n\n\nSep 25\n\n\nSep 26\n\n\n\n\n\n\n\n\n\n\n09:00\n\n\n-\n\n\nworkshops/other group-related activitie\n\n\n\n\n\n\n10:00\n\n\nopening/talks\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n11:00\n\n\ntalks\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n12:00\n\n\nlunch break\n\n\nlunch break\n\n\n\n\n\n\n13:00\n\n\ntalks\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n14:00\n\n\ntalks/discussion\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n15:00\n\n\ntalks/discussion\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n16:00\n\n\ntalks/discussion\n\n\n-\n\n\n\n\n\n\n17:00\n\n\nbreak\n\n\n-\n\n\n\n\n\n\n18:00\n\n\nevening social event\n\n\n-\n\n\n\n\n\n\n\n\nCall for Participation / Registration\n\n\nPlease help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. If you like to attend the GanetiCon 2018, please register on \nTBA\n. It will help us to better plan the event.\n\n\n\n\nNote\n\n\nIt is also possible to take part in only one of the two conference days.\n\n\n\n\n\n\nIf you like to give a \ntalk\n, please join and tell us at the \nGanetiCon list\n\n\n\n\nSponsors\n\n\nGanetiCon 2018 will be hosted by \n\n\nContacts and Information\n\n\n\n\nmail\n\n\ndev-mail\n\n\n\n\nIRC \n#ganeti\n on \nFreenode\n\n\n\n\n\n\nhomepage\n\n\n\n\ndocs\n\n\nwiki\n\n\ncode",
             "title": "GanetiCon 2018"
         },
         {
@@ -17,23 +17,23 @@
         },
         {
             "location": "/#schedule",
-            "text": "Time  Day 1  Day 2      Content Cell  Content Cell  Content Cell    Content Cell  Content Cell  Content Cell",
+            "text": "GanetiCon 2018 is scheduled for the 25th  and  26th of September.     Time  Sep 25  Sep 26      09:00  -  workshops/other group-related activitie    10:00  opening/talks  workshops/other group-related activities    11:00  talks  workshops/other group-related activities    12:00  lunch break  lunch break    13:00  talks  workshops/other group-related activities    14:00  talks/discussion  workshops/other group-related activities    15:00  talks/discussion  workshops/other group-related activities    16:00  talks/discussion  -    17:00  break  -    18:00  evening social event  -",
             "title": "Schedule"
         },
         {
             "location": "/#call-for-participation-registration",
-            "text": "Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.    If you like to attend the GanetiCon 2018, please register on  TBA . It will help us to better plan the event.    If you like to give a talk, please join and tell us at the  GanetiCon list",
+            "text": "Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. If you like to attend the GanetiCon 2018, please register on  TBA . It will help us to better plan the event.   Note  It is also possible to take part in only one of the two conference days.    If you like to give a  talk , please join and tell us at the  GanetiCon list",
             "title": "Call for Participation / Registration"
         },
         {
             "location": "/#sponsors",
-            "text": "GanetiCon 2018 will be hosted by  sipgate GmbH",
+            "text": "GanetiCon 2018 will be hosted by",
             "title": "Sponsors"
         },
         {
-            "location": "/#contact",
-            "text": "homepage  docs  wiki  code  mail  dev-mail  IRC  #ganeti  on  Freenode",
-            "title": "Contact"
+            "location": "/#contacts-and-information",
+            "text": "mail  dev-mail   IRC  #ganeti  on  Freenode    homepage   docs  wiki  code",
+            "title": "Contacts and Information"
         },
         {
             "location": "/previos_cons/",
