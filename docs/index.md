@@ -21,8 +21,7 @@ Please help making GanetiCon a valuable event for everyone by sharing your knowl
 * If you like to give a talk, please join and tell us at the [GanetiCon list](https://groups.google.com/forum/#!forum/ganeticon)
 
 ## Sponsors
-GanetiCon 2018 will be hosted by [sipgate GmbH](https://www.sipgate.de/)  
-![sipgate](https://www.sipgate.de/wp-content/themes/sipgatetheme/deprecated-assets/logo-footer.svg "sipgate")
+GanetiCon 2018 will be hosted by [![sipgate](img/logo-footer.png "sipgate")](https://www.sipgate.de/)
 
 ## Contact
 * [homepage](http://www.ganeti.org)
