@@ -4,7 +4,13 @@ The Ganeti users and developer summit
 
 ## Location
 
-Düsseldorf, Germany ... Adresse, Anfahrt
+[sipgate](https://www.sipgate.de/)  
+Gladbacher Straße 74  
+D-40219 Düsseldorf 
+
+How to get there `TBA`
+
+accommodation `TBA`
 
 ## Schedule
 GanetiCon 2018 is scheduled for the 25th *and* 26th of September.
@@ -24,13 +30,13 @@ Time | Sep 25 | Sep 26
 
 ## Call for Participation / Registration
 
-Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. If you like to attend the GanetiCon 2018, please register on `TBA`. It will help us to better plan the event.
+If you like to attend the GanetiCon 2018, please register on [this dudle poll](https://dudle.inf.tu-dresden.de/ganeticon/). It will help us to better plan the event. Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. 
 [comment]: <> (https://terminplaner.dfn.de/foodle.php, https://dudle.inf.tu-dresden.de, doodle oder google forms???)
 
 !!! note
     It is also possible to take part in only one of the two conference days.
 
-* If you like to give a `talk`, please join and tell us at the [GanetiCon list](https://groups.google.com/forum/#!forum/ganeticon)
+If you like to give a `talk`, please join and tell us at the [GanetiCon list](https://groups.google.com/forum/#!forum/ganeticon).
 
 ## Sponsors
 GanetiCon 2018 will be hosted by [![sipgate](img/logo-footer.png "sipgate")](https://www.sipgate.de/)
@@ -39,7 +45,6 @@ GanetiCon 2018 will be hosted by [![sipgate](img/logo-footer.png "sipgate")](htt
 * [mail](https://groups.google.com/forum/\#!forum/ganeti)
 * [dev-mail](https://groups.google.com/forum/\#!forum/ganeti-devel)
 * IRC `#ganeti` on [Freenode](https://freenode.net)
-
 * [homepage](http://www.ganeti.org)
 * [docs](http://docs.ganeti.org)
 * [wiki](https://ganeti.googlesource.com/wiki/+/master)
