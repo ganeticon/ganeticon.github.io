@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "GanetiCon 2018 - D\u00fcsseldorf\n\n\nThe Ganeti users and developer summit\n\n\nLocation\n\n\nsipgate\n\nGladbacher Stra\u00dfe 74\n\nD-40219 D\u00fcsseldorf \n\n\nHow to get there \nTBA\n\n\naccommodation \nTBA\n\n\nSchedule\n\n\nGanetiCon 2018 is scheduled for the 25th \nand\n 26th of September.\n\n\n\n\n\n\n\n\nTime\n\n\nSep 25\n\n\nSep 26\n\n\n\n\n\n\n\n\n\n\n09:00\n\n\n-\n\n\nworkshops/other group-related activitie\n\n\n\n\n\n\n10:00\n\n\nopening/talks\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n11:00\n\n\ntalks\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n12:00\n\n\nlunch break\n\n\nlunch break\n\n\n\n\n\n\n13:00\n\n\ntalks\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n14:00\n\n\ntalks/discussion\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n15:00\n\n\ntalks/discussion\n\n\nworkshops/other group-related activities\n\n\n\n\n\n\n16:00\n\n\ntalks/discussion\n\n\n-\n\n\n\n\n\n\n17:00\n\n\nbreak\n\n\n-\n\n\n\n\n\n\n18:00\n\n\nevening social event\n\n\n-\n\n\n\n\n\n\n\n\nCall for Participation / Registration\n\n\nIf you like to attend the GanetiCon 2018, please register on \nthis dudle poll\n. It will help us to better plan the event. Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. \n\n\n\n\nNote\n\n\nIt is also possible to take part in only one of the two conference days.\n\n\n\n\nIf you like to give a \ntalk\n, please join and tell us at the \nGanetiCon list\n.\n\n\nSponsors\n\n\nGanetiCon 2018 will be hosted by \n\n\nContacts and Information\n\n\n\n\nmail\n\n\ndev-mail\n\n\nIRC \n#ganeti\n on \nFreenode\n\n\nhomepage\n\n\ndocs\n\n\nwiki\n\n\ncode",
+            "text": "GanetiCon 2018 - D\u00fcsseldorf\n\n\nThe Ganeti users and developer summit\n\n\nSchedule\n\n\nGanetiCon 2018 is scheduled for the 25th \nand\n 26th of September.\n\n\n\n\nSep 24 talks and discussion\n: The conference starts at 10:00 a.m. Users report about their Ganeti application, experiences and solutions. There will be discussions about Ganeti (community, improvements, future orientation, etc.) until approx. 17:00. In the evening (18:00) there is a social event.\n\n\nSep 26 workshops/other group-related activities\n: On the second day we like to hack on and around Ganeti. From approx. 9:00 to 15:00 we will try to fix or (un)break your cluster, solve a common problem, add a simple feature or code a small solution, etc.\n\n\n\n\nCall for Participation / Registration\n\n\nIf you like to attend the GanetiCon 2018, please register on \nthis dudle poll\n, so we can better plan the event. Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. \n\n\n\n\nNote\n\n\nIt is also possible to take part in only one of the two conference days.\n\n\n\n\nIf you like to give a \ntalk\n, please join and tell us at the \nGanetiCon list\n.\n\n\nLocation\n\n\nAddress\n\n\nsipgate\n\nGladbacher Stra\u00dfe 74\n\n40219 D\u00fcsseldorf\n\nGermany \n\n\naccommodation\n\n\n\n\nA good recommendation could be the hotel \n\"Holiday Inn D\u00fcsseldorf Hafen\"\n. The hotel is about a 10 minute walk from sipgate and is located directly at tram and suburban train stops. You can easily reach us from the main station and also by S-Bahn (suburban train) from Airport from there.\n\n\nThere are also the much more comfortable (and more expensive) alternatives: \"INNSIDE D\u00fcsseldorf Hafen\", \"Courtyard D\u00fcsseldorf Hafen\" and \"Hyatt Regency\nD\u00fcsseldorf\", which are located directly in the Medienhafen (that is then about 10 minutes in the other direction seen from sipgate).\n\n\n\n\nHow to get there\n\n\n\n\nby air/rail\n: From D\u00fcsseldorf airport, take the S11 via D\u00fcsseldorf main station to the D\u00fcsseldorf V\u00f6lklingerstra\u00dfe stop (approx. 25 minutes). The departure direction\nVolmerswerther Stra\u00dfe leads to Holiday Inn, the exit towards V\u00f6lklinger Stra\u00dfe leads to sipgate. At the end of the stairs turn right to the next intersection and then left onto\nturn into Gladbacher Stra\u00dfe. Follow Gladbacher Stra\u00dfe to house number 74 and enter the courtyard through the gate. From there, GanetiCon will also be signposted.\n\nIf you come from D\u00fcsseldorf main station, you can also take the S8 or S28 lines. If you are travelling within D\u00fcsseldorf: tram lines 706 and 707 stop directly at the\nGladbacher Stra\u00dfe, approx. 100 metres from the courtyard entrance (Wupperstra\u00dfe stop).\n\n\nby car\n: \nHere\n and \nhere\n you will find the way to free parking behind sipgate's house.\n\n\n\n\nSponsors\n\n\nGanetiCon 2018 will be hosted by \n\n\nContacts and Information\n\n\n\n\nmail\n\n\ndev-mail\n\n\nIRC \n#ganeti\n on \nFreenode\n\n\nhomepage\n\n\ndocs\n\n\nwiki\n\n\ncode",
             "title": "GanetiCon 2018"
         },
         {
@@ -11,19 +11,34 @@
             "title": "GanetiCon 2018 - D\u00fcsseldorf"
         },
         {
-            "location": "/#location",
-            "text": "sipgate \nGladbacher Stra\u00dfe 74 \nD-40219 D\u00fcsseldorf   How to get there  TBA  accommodation  TBA",
-            "title": "Location"
-        },
-        {
             "location": "/#schedule",
-            "text": "GanetiCon 2018 is scheduled for the 25th  and  26th of September.     Time  Sep 25  Sep 26      09:00  -  workshops/other group-related activitie    10:00  opening/talks  workshops/other group-related activities    11:00  talks  workshops/other group-related activities    12:00  lunch break  lunch break    13:00  talks  workshops/other group-related activities    14:00  talks/discussion  workshops/other group-related activities    15:00  talks/discussion  workshops/other group-related activities    16:00  talks/discussion  -    17:00  break  -    18:00  evening social event  -",
+            "text": "GanetiCon 2018 is scheduled for the 25th  and  26th of September.   Sep 24 talks and discussion : The conference starts at 10:00 a.m. Users report about their Ganeti application, experiences and solutions. There will be discussions about Ganeti (community, improvements, future orientation, etc.) until approx. 17:00. In the evening (18:00) there is a social event.  Sep 26 workshops/other group-related activities : On the second day we like to hack on and around Ganeti. From approx. 9:00 to 15:00 we will try to fix or (un)break your cluster, solve a common problem, add a simple feature or code a small solution, etc.",
             "title": "Schedule"
         },
         {
             "location": "/#call-for-participation-registration",
-            "text": "If you like to attend the GanetiCon 2018, please register on  this dudle poll . It will help us to better plan the event. Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.    Note  It is also possible to take part in only one of the two conference days.   If you like to give a  talk , please join and tell us at the  GanetiCon list .",
+            "text": "If you like to attend the GanetiCon 2018, please register on  this dudle poll , so we can better plan the event. Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.    Note  It is also possible to take part in only one of the two conference days.   If you like to give a  talk , please join and tell us at the  GanetiCon list .",
             "title": "Call for Participation / Registration"
+        },
+        {
+            "location": "/#location",
+            "text": "",
+            "title": "Location"
+        },
+        {
+            "location": "/#address",
+            "text": "sipgate \nGladbacher Stra\u00dfe 74 \n40219 D\u00fcsseldorf \nGermany",
+            "title": "Address"
+        },
+        {
+            "location": "/#accommodation",
+            "text": "A good recommendation could be the hotel  \"Holiday Inn D\u00fcsseldorf Hafen\" . The hotel is about a 10 minute walk from sipgate and is located directly at tram and suburban train stops. You can easily reach us from the main station and also by S-Bahn (suburban train) from Airport from there.  There are also the much more comfortable (and more expensive) alternatives: \"INNSIDE D\u00fcsseldorf Hafen\", \"Courtyard D\u00fcsseldorf Hafen\" and \"Hyatt Regency\nD\u00fcsseldorf\", which are located directly in the Medienhafen (that is then about 10 minutes in the other direction seen from sipgate).",
+            "title": "accommodation"
+        },
+        {
+            "location": "/#how-to-get-there",
+            "text": "by air/rail : From D\u00fcsseldorf airport, take the S11 via D\u00fcsseldorf main station to the D\u00fcsseldorf V\u00f6lklingerstra\u00dfe stop (approx. 25 minutes). The departure direction\nVolmerswerther Stra\u00dfe leads to Holiday Inn, the exit towards V\u00f6lklinger Stra\u00dfe leads to sipgate. At the end of the stairs turn right to the next intersection and then left onto\nturn into Gladbacher Stra\u00dfe. Follow Gladbacher Stra\u00dfe to house number 74 and enter the courtyard through the gate. From there, GanetiCon will also be signposted. \nIf you come from D\u00fcsseldorf main station, you can also take the S8 or S28 lines. If you are travelling within D\u00fcsseldorf: tram lines 706 and 707 stop directly at the\nGladbacher Stra\u00dfe, approx. 100 metres from the courtyard entrance (Wupperstra\u00dfe stop).  by car :  Here  and  here  you will find the way to free parking behind sipgate's house.",
+            "title": "How to get there"
         },
         {
             "location": "/#sponsors",
