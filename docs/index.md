@@ -1,3 +1,9 @@
+[comment]: <> (travis-ci fails, because of its infra)
+[comment]: <> (https://travis-ci.org/ganeticon/ganeticon.github.io/builds/393791596)
+[comment]: <> (but it looks like your commit is the cause of the failure)
+[comment]: <> (what a mess)
+[comment]: <> (change THIS to create a pseudo commit to trigger a new build)
+
 # GanetiCon 2018 - Düsseldorf
 The Ganeti users and developer summit
 
