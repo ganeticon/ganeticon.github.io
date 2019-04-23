@@ -14,7 +14,7 @@ GanetiCon 2018 is scheduled for the 25th **and** 26th of September.
 * **Sep 26 workshops/other group-related activities**: On the second day, we like to hack on and around Ganeti. From approx. 9:00 to 15:00 we will try to fix or (un)break your cluster, solve a common problem, add a simple feature or code a small solution, etc.
 
 ## Call for Participation / Registration
-If you like to attend the GanetiCon 2018, please register on [this dudle poll](img/ganeticon18-interessenten.png), so we can better plan the event. Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. 
+If you like to attend the GanetiCon 2018, please register on [this dudle poll](../img/ganeticon18-interessenten.png), so we can better plan the event. Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. 
 [comment]: <> (https://terminplaner.dfn.de/foodle.php, https://dudle.inf.tu-dresden.de, doodle oder google forms???)
 
 !!! note
