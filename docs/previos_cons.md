@@ -1,5 +1,8 @@
 # Previos Converences
 
+## 2018
+Düsseldorf - [GanetiCon 2018](2018/) and [GanetiCon 2018](https://github.com/ganeticon/ganeticon/tree/master/2018)
+
 ## 2017
 Leipzig - [MiniGanetiCon 2017](https://github.com/ge-fa/ganeti-presentations/tree/master/2017/GanetiCon)  
 
