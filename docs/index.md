@@ -4,16 +4,32 @@
 [comment]: <> (what a mess)
 [comment]: <> (change THIS to create a pseudo commit to trigger a new build)
 
-# GanetiCon 2019
+# GanetiCon 2019 Umeå/Sweden
+The Ganeti **users** and developers summit
 
-## proposals for event places, dates and organizers/hosts
-The Ganeti community is looking for organizers/hosts of this years GanetiCon. From the last conferences, approx. 4-8 organizations (10-15 people) are expected. The place also effects the audience: i.e. 2017/Leipzig was less then half of 2018/Düsseldorf.
+## Schedule
+GanetiCon 2019 is scheduled for the 18th **and** 19th of June (2019-06-18 - 2019-06-19).
 
-If you like to be a GanetiCon 2019 organizer/host please send your offer to the [mailing list](https://groups.google.com/forum/\#!forum/ganeti).
+## Call for Participation / Registration
+A [participation from](https://indico.neic.no/event/83/registrations/participants) will be prepared soon. 
 
-## currently open offers
-The currently open offers are:
+## Location
 
-Organizer|Place|Date
-:----------- |:-------------|:-----------
-Mattias Wadenstein|Umeå University/Sweden|June:ish after 18th
+#### Address
+
+#### Accommodation
+
+#### How to get there
+
+## Sponsors
+GanetiCon 2019 will be hosted by [Umeå University/Sweden](https://www.umu.se/en/) on behalf of Mattias Wadenstein.
+
+## Contacts and Information
+* [mail](https://groups.google.com/forum/\#!forum/ganeti)
+* [dev-mail](https://groups.google.com/forum/\#!forum/ganeti-devel)
+* IRC `#ganeti` on [Freenode](https://freenode.net)
+* [homepage](http://www.ganeti.org)
+* [docs](http://docs.ganeti.org)
+* [wiki](https://ganeti.googlesource.com/wiki/+/master)
+* [code](https://github.com/ganeti/ganeti)
+
