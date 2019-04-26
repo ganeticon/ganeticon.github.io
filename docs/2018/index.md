@@ -43,7 +43,7 @@ Gladbacher Straße, approx. 100 metres from the courtyard entrance (Wupperstraß
 * **by car**: [Here](https://www.sipgate.de/kontakt#anfahrt) and [here](https://maps.google.com/?q=51.21146543549667,6.754880409717543) you will find the way to free parking behind sipgate's house.
 
 ## Sponsors
-GanetiCon 2018 will be hosted by [![sipgate](img/sipgate_wort-bild-marke_RGB_schwarz_klein.png "sipgate")](https://www.sipgate.de/)
+GanetiCon 2018 will be hosted by [![sipgate](../img/sipgate_wort-bild-marke_RGB_schwarz_klein.png "sipgate")](https://www.sipgate.de/)
 
 ## Contacts and Information
 * [mail](https://groups.google.com/forum/\#!forum/ganeti)
