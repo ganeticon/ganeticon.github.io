@@ -10,8 +10,10 @@ The Ganeti **users** and developers summit
 ## Schedule
 GanetiCon 2019 is scheduled for the 18th **and** 19th of June (2019-06-18 - 2019-06-19).
 
-## Call for Participation / Registration
-A [participation from](https://indico.neic.no/event/83/registrations/participants) will be prepared soon. 
+## Call for Participation / Registration / Lectures
+If you like to attend the GanetiCon 2019, please register on [NEIC's event organisation tool](https://indico.neic.no/event/83/registrations/27/), so we can better plan the event. The [participation list](https://indico.neic.no/event/83/registrations/participants) is publicly available.
+
+Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. If you like to give a **lecture** you can [submit an abstract](https://indico.neic.no/event/83/abstracts/).
 
 ## Location
 
