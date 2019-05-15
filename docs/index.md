@@ -24,7 +24,8 @@ GanetiCon 2019 will be hosted by [Umeå University/Sweden](https://www.umu.se/en
 ## Contacts and Information
 * [mail](https://groups.google.com/forum/\#!forum/ganeti)
 * [dev-mail](https://groups.google.com/forum/\#!forum/ganeti-devel)
-* IRC `#ganeti` on [Freenode](https://freenode.net)
+[comment]: <> (is the IRC channel dead?)
+[comment]: <> (* IRC `#ganeti` on [Freenode](https://freenode.net))
 * [homepage](http://www.ganeti.org)
 * [docs](http://docs.ganeti.org)
 * [wiki](https://ganeti.googlesource.com/wiki/+/master)
