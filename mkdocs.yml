@@ -1,21 +1,20 @@
 site_name: The Ganeti Conference
-site_description: 'GanetiCon 2019'
-copyright: 'ganeticon.org 2019'
+site_description: 'GanetiCon 2022'
+copyright: 'ganeticon.org 2022'
 
 extra:
   logo: './assets/images/logo.png'
   social:
     - type: 'home'
-      link: 'http://ganeti.org'
+      link: 'https://ganeti.org'
     - type: 'group'
       link: 'https://groups.google.com/forum/#!forum/ganeti'
     - type: 'github'
       link: 'https://github.com/ganeti'
-    - type: 'google-plus'
-      link: 'https://plus.google.com/113015122293573254673'
 
-pages:
-    - 'GanetiCon 2019': 'index.md'
+nav:
+    - 'GanetiCon 2022': 'index.md'
+    - 'GanetiCon 2019': '2019/index.md'
     - 'GanetiCon 2018': '2018/index.md'
     - 'Previos GanetiCons': 'previos_cons.md'
 

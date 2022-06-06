@@ -1,33 +1,27 @@
-[comment]: <> (travis-ci fails, because of its infra)
-[comment]: <> (https://travis-ci.org/ganeticon/ganeticon.github.io/builds/393791596)
-[comment]: <> (but it looks like your commit is the cause of the failure)
-[comment]: <> (what a mess)
-[comment]: <> (change THIS to create a pseudo commit to trigger a new build)
+# GanetiCon 2022 @ FrOSCon (planned)
+The Ganeti **users** and developers summit. This time as a sub conference under the umbrella of [FrOSCon](https://www.froscon.org/).
 
-# GanetiCon 2019 Umeå/Sweden
-The Ganeti **users** and developers summit
+!!! warning
+    GanetiCon 2022 @ FrOSCon is in planned state. We need to wait for the FrOSCon application process, which ends on June the 12th. Until then, the conference remains unconfirmed.
 
 ## Schedule
-GanetiCon 2019 is scheduled for the 18th **and** 19th of June (2019-06-18 - 2019-06-19).
+GanetiCon 2022 is scheduled for the 20th **and** 21th of August (2022-08-20 - 2022-08-21, Saturday and Sunday)
 
 ## Call for Participation / Registration / Lectures
-If you like to attend the GanetiCon 2019, please register on [NeIC's event organization tool](https://indico.neic.no/event/83/registrations/27/), so we can better plan the event. The [participation list](https://indico.neic.no/event/83/registrations/participants) is publicly available.
+If you like to attend the GanetiCon 2022, please register on this [this dud-poll](https://dud-poll.inf.tu-dresden.de/ganeticon/), so we can better plan the event.
 
-Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. If you like to give a **lecture** you can [submit an abstract](https://indico.neic.no/event/83/abstracts/).
+Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. If you like to give a **talk**, please join and tell us at the [Ganeti list](https://groups.google.com/g/ganeti).
 
-## Practical Information
-You can find helpful information like Venue, Accommodation and how to get there [here](https://indico.neic.no/event/83/page/19-practical-information).
-
-## Sponsors
-GanetiCon 2019 will be hosted by [Umeå University/Sweden](https://www.umu.se/en/) on behalf of Mattias Wadenstein.
+## Location
+Please take a look at the [FrOSCon FAQ](https://www.froscon.org/en/faq/#irfaq_37_82863).
 
 ## Contacts and Information
 * [mail](https://groups.google.com/forum/\#!forum/ganeti)
 * [dev-mail](https://groups.google.com/forum/\#!forum/ganeti-devel)
-[comment]: <> (is the IRC channel dead?)
-[comment]: <> (* IRC `#ganeti` on [Freenode](https://freenode.net))
-* [homepage](http://www.ganeti.org)
-* [docs](http://docs.ganeti.org)
-* [wiki](https://ganeti.googlesource.com/wiki/+/master)
+* IRC `#ganeti` on [OFTC](https://www.oftc.net/)
+* [homepage](https://ganeti.org/)
+* [docs](https://docs.ganeti.org)
+[comment]: <> (* [wiki](https://ganeti.googlesource.com/wiki/+/master))
+* [wiki](https://github.com/ganeti/ganeti/wiki)
 * [code](https://github.com/ganeti/ganeti)
 
