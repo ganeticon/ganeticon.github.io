@@ -10,4 +10,5 @@ webpage
 * start local mkdocs-server `mkdocs serve`
 * edit `docs/index.md` and watch the webpage on [http://127.0.0.1:8000](http://127.0.0.1:8000)
 * commit your changes and push to remote/github (build branch)
-* the webpage will be build by travis-ci and automaticaly published in the master branch
+* ~~the webpage will be build by travis-ci and automaticaly published in the master branch~~ (currently broken???)
+  * run `mkdocs gh-deploy -v --clean --remote-branch master --remote-name origin`
