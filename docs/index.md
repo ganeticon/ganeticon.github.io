@@ -1,4 +1,4 @@
-# GanetiCon 2022 @ FrOSCon (planned)
+# GanetiCon 2022 @ FrOSCon
 The Ganeti **users** and developers summit. This time as a sub conference under the umbrella of [FrOSCon](https://www.froscon.org/).
 
 ## Schedule
