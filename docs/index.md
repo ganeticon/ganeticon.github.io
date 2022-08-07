@@ -7,7 +7,7 @@ GanetiCon 2022 is scheduled for the 20th **and** 21th of August (2022-08-20 - 20
 ## Call for Participation / Registration / Lectures
 If you like to attend the GanetiCon 2022, please register on this [this dud-poll](https://dud-poll.inf.tu-dresden.de/ganeticon/), so we can better plan the event.
 
-Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. If you like to give a **talk**, please join and tell us at the [Ganeti list](https://groups.google.com/g/ganeti).
+Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience. If you like to participate in any way (talks, workshops etc.), please register / submit your idea through [the CfP portal](https://frab.froscon.org/ganeticon2022/cfp).
 
 ## Location
 Please take a look at the [FrOSCon FAQ](https://www.froscon.org/en/faq/).
